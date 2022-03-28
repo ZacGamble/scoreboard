@@ -1,0 +1,16 @@
+.outline{
+    border: 1px solid red;
+}
+
+.mass{
+    min-width: 40vw;
+    min-height: 40vh;
+}
+
+.scoreChars{
+    font-size: 5em;
+    font-weight: 500;
+}
+body{
+    background-color: rgb(247, 248, 241);
+}
